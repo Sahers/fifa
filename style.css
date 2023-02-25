@@ -1,6 +1,6 @@
 @font-face{
   font-family: font;
-  src:url(/Changa-ExtraLight.ttf);
+  src:url(Changa-ExtraLight.ttf);
 }
 * {
     font-size: 15pt;
@@ -49,19 +49,19 @@ button{
   text-align: center;
 }
 #face{
-  background-image: url(/facebook.svg);
+  background-image: url(facebook.svg);
   height: 150px;
   background-position: center;
   background-repeat: no-repeat;
 }
 #github{
-  background-image: url(/github.svg);
+  background-image: url(github.svg);
   height: 150px;
   background-position: center;
   background-repeat: no-repeat;
 }
 #twitter{
-  background-image: url(/twitter.svg);
+  background-image: url(twitter.svg);
   height: 150px;
   background-position: center;
   background-repeat: no-repeat;
